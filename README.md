@@ -1,4 +1,5 @@
-# Booggle 1 Basic Board Generation
+# Boggleboggle 1 Basic Board Generation
+
 
 ##Learning Competencies
 
